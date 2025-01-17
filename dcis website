@@ -2,4 +2,7 @@
   <Html>
   <Head><Title> Dcis first website</Title></Head>
   <Body>
-  </Body></Html>
+<p><h2><center>Our first project being hosted on GitHub </center></h2></p>
+<p>This is our first project during internship on a lession of hosting websites</p>
+  </Body>
+</Html>
